@@ -18,8 +18,8 @@ let food = {
 
 let snake = [];
 snake[0] = {
-  x: 9 * box,
-  y: 10 * box
+  x: 3 * box,
+  y: 4 * box
 };
 
 document.addEventListener("keydown", direction);
